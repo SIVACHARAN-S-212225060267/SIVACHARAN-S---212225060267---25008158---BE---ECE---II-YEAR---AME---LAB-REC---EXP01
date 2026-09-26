@@ -1,8 +1,5 @@
 # **AME - LAB RECORD**
 # **EXP : 01**
-# **V-I CHARACTERISTICS OF GUNN DIODE**
-# exp_1_study_of_microwave_components
-
 # Experiment 1 — Study of Microwave Components and Instruments
 
 ---
